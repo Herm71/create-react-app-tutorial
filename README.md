@@ -1,7 +1,7 @@
 # Create React App Tutorial
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-It was also created using the tutorial series [Learning React with Creat-React-App](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc). The current development of this app is up to [Part 4](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-4-9f843c8c1ccc).
+It was also created using the tutorial series [Learning React with Creat-React-App](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-1-a12e1833fdc). The current development of this app is up to [Part 4](https://medium.com/in-the-weeds/learning-react-with-create-react-app-part-4-9f843c8c1cccw).
 
 # Requirements
 
