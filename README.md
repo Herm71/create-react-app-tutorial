@@ -14,7 +14,7 @@ It was also created using the tutorial series [Learning React with Creat-React-A
 npm install -g create-react-app //if not already installed
 create-react-app --version //verify create-react-app is working
 1.5.2
-git clone *url* my-project-directory && cd my-project-directory
+git clone git@github.com:Herm71/create-react-app-tutorial.git my-project-directory && cd my-project-directory
 npm install
 ```
 
