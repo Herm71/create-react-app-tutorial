@@ -3,7 +3,7 @@ import './HelloWorldList.css';
 import HelloWorld from './HelloWorld';
 import AddGreeter from './AddGreeter';
 
-class HelloWorldList extends Component {
+class HelloWorldList extends uComponent {
     constructor(props) {
         super(props);
         this.state = { greetings: ['Jason', 'Wanda', 'Earl'] };
